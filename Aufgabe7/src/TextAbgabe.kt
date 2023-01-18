@@ -8,5 +8,5 @@ fun main() {
         } else if (speedLimits[i] == 120) {
             println("auf der " + i + ". Strasse kann man " + speedLimits[i] + "km/h fahren.")
         }
-    }
+    } //
 }
